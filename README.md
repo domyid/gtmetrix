@@ -1,4 +1,4 @@
-# gtmetrix
+# GTMetrix
 Cara menggunakan GTMetrix
 
 1. Buka situs gtmetrix.com.
